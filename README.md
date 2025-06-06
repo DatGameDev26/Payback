@@ -2,7 +2,6 @@
 
 ## Mô tả
 
-Đây là dự án của nhóm cho môn "Lập trình trò chơi" ở trường.
 Trò chơi lấy bối cảnh Trái đất bị một đội quân robot xâm lược và người chơi là một chiến binh đơn độc phải chiến đấu chống lại các cuộc tấn công dữ dội của chúng để bảo vệ Trái đất.
 
 ## Cơ chế trò chơi
