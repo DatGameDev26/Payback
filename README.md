@@ -14,5 +14,4 @@ The game is a 3D FPS, set in the context of the Earth being invaded by a robot a
 - Items can drop from killed enemies: Heal, Fuel, Bigger Fuel, Ammo, Grenade
 - Use Fuel to Build turret or Upgrade your gun.
 
-<a href="https://drive.google.com/file/d/1fO13u9nHhci4n3gt4agJ-jDDAFI0PSDR/view?usp=sharing" target="_blank">Gameplay Video</a>
-
+[Gameplay Video](https://drive.google.com/file/d/1fO13u9nHhci4n3gt4agJ-jDDAFI0PSDR/view?usp=sharing)
