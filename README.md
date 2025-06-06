@@ -1,17 +1,14 @@
 ![Ảnh minh họa](https://drive.google.com/uc?export=view&id=1RqiC6JVOXMxPgZFQb7SVAxw3_ypMyVDz)
 
-In this intense 3D FPS, Earth faces an existential threat as a colossal robot army descends. 
-As a unique gun tower builder, your mission is clear: single-handedly defend a massive city, construct vital defenses, and unleash devastating firepower to repel the invasion.
+## Mô tả
 
-## Description
+Đây là dự án của nhóm cho môn "Lập trình trò chơi" ở trường.
+Trò chơi lấy bối cảnh Trái đất bị một đội quân robot xâm lược và người chơi là một chiến binh đơn độc phải chiến đấu chống lại các cuộc tấn công dữ dội của chúng để bảo vệ Trái đất.
 
-This is my group's project for the "Game Programing" subject at school.
-The game is a 3D FPS, set in the context of the Earth being invaded by a robot army and the player is a lone soldier who must fight against the sweeping attacks of the robot army to protect the earth.
+## Cơ chế trò chơi
 
-## Game Mechanic
+- Di chuyển, Bắn, Xây dựng và Nâng cấp
+- Vật phẩm có thể rơi ra từ kẻ thù bị giết: Máu, Nhiên liệu, Nhiên liệu lớn, Đạn, Lựu đạn
+- Sử dụng Nhiên liệu để Xây dựng tháp pháo hoặc Nâng cấp súng của bạn.
 
-- Move, Shoot, Build and Upgrade
-- Items can drop from killed enemies: Heal, Fuel, Bigger Fuel, Ammo, Grenade
-- Use Fuel to Build turret or Upgrade your gun.
-
-[Gameplay Video](https://drive.google.com/file/d/1fO13u9nHhci4n3gt4agJ-jDDAFI0PSDR/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1fO13u9nHhci4n3gt4agJ-jDDAFI0PSDR/view?usp=sharing)
