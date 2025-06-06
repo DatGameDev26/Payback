@@ -1,6 +1,5 @@
 ![Ảnh minh họa](https://drive.google.com/uc?export=view&id=1RqiC6JVOXMxPgZFQb7SVAxw3_ypMyVDz)
 
-
 In this intense 3D FPS, Earth faces an existential threat as a colossal robot army descends. 
 As a unique gun tower builder, your mission is clear: single-handedly defend a massive city, construct vital defenses, and unleash devastating firepower to repel the invasion.
 
@@ -8,5 +7,11 @@ As a unique gun tower builder, your mission is clear: single-handedly defend a m
 
 This is my group's project for the "Game Programing" subject at school.
 The game is a 3D FPS, set in the context of the Earth being invaded by a robot army and the player is a lone soldier who must fight against the sweeping attacks of the robot army to protect the earth.
+
+## Game Mechanic
+
+- Movement, Shoot, Build and Upgrade
+- Items can drop from killed enemies: Heal, Fuel, Bigger Fuel, Ammo, Grenade
+- Use Fuel to Build turret or Upgrade your gun.
 
 [Gameplay Video](https://drive.google.com/file/d/1fO13u9nHhci4n3gt4agJ-jDDAFI0PSDR/view?usp=sharing)
